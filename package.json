@@ -1,0 +1,26 @@
+{
+  "name": "hyphen",
+  "version": "0.0.1",
+  "description": "一个简单的mvvm框架实现",
+  "main": "src/index.ts",
+  "scripts": {
+    "dev": "",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cbtpro/-.git"
+  },
+  "keywords": [
+    "mvvm实现"
+  ],
+  "author": "陈碧滔",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cbtpro/-/issues"
+  },
+  "homepage": "https://github.com/cbtpro/-#readme",
+  "devDependencies": {
+    "rollup": "^3.24.0"
+  }
+}
